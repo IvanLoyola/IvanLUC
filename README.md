@@ -1,2 +1,2 @@
-# IvanLUC
-My first GitHub project for Comp 141
+#! /bash/bin/
+hey im very cool and swaggy and thanks you
